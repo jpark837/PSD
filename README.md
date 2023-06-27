@@ -1,2 +1,4 @@
-# Calculate-Structural-Protein-Properties
-Calculating Structural Protein Properties and their correlation to fragmentation via MALDI-TOF-TOF tandem mass spectrometry
+# Exploring the fragmentation efficiency of proteins via post-source decay analyzed by MALDI-TOF-TOF tandem mass spectrometry 
+This repository contains python scripts for the classification model and accompanying data as described from the manuscript:
+
+Exploring the fragmentation efficiency of proteins via post-source decay analyzed by MALDI-TOF-TOF tandem mass spectrometry 
